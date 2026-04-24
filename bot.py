@@ -1,5 +1,1 @@
-# Bot implementation
-
-# All necessary imports
-
-# Define bot and handlers here
+# Your content for bot.py

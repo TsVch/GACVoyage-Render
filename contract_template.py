@@ -1,4 +1,1 @@
-# Contract template PDF generation
-
-def generate_contract_pdf(data):
-    pass
+# Your content for contract_template.py

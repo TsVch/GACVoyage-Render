@@ -1,0 +1,1 @@
+# Your content for middlewares/activity_logger.py

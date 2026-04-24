@@ -1,4 +1,1 @@
-# Consent template PDF generation
-
-def generate_consent_pdf(data):
-    pass
+# Your content for consent_template.py
